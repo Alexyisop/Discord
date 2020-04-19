@@ -140,52 +140,52 @@
 /* guild button */
 .theme-dark .container-2td-dC .wrapper-2lTRaf[style*="background-color: rgb(47, 49, 54);"] {
 	background-color: var(--color-main)!important;
-	box-shadow: rgb(25, 45, 85) 0px 0px 20px;
+	box-shadow: rgb(214, 28, 25) 0px 0px 20px;
 }
 
 /* invite group */
 .theme-dark .wrapper-35wsBm {
     background: rgba(2, 22, 45, 0.8);
-    border-color: rgb(27, 52, 95);
+    border-color: rgb(214, 28, 25);
 }
 
 
 /* embed urls */
 .theme-dark .embedInner-1-fpTo {
     background-color: rgba(19, 82, 93, 0.3);
-    border-color: rgb(28, 101, 144);
+    border-color: rgb(214, 28, 25);
 }
 .theme-dark .embedPill-1Zntps {
-    background-color: rgb(28, 101, 144);
+    background-color: rgb(214, 28, 25);
 }
 
 /* emoji menu */
 
 .emojiPicker-3m1S-j, #bda-qem-twitch-container, #bda-qem-favourite-container {
-	background-color: rgba(2, 22, 45, 0.9);
+	background-color: rgba(214, 28, 25, 0.9);
 }
 /* sticky part of emoji area */
 .emojiPicker-3m1S-j .stickyHeader-1SS0JU {
-    background: rgb(9, 44, 83);
+    background: rgb(214, 28, 25);
     border: 1px solid #375ca7;
     border-radius: 5px;
 }
 .diversitySelector-tmmMv0 .popout-2nUePc {
-    background: rgba(2, 22, 45, 0.9);
+    background: rgba(214, 28, 25, 0.9);
     border: 1px solid #375ca7;
 }
 .search-bar.search-bar-light {
-    background-color: rgba(9, 44, 83, 0.9);
+    background-color: rgba(214, 28, 25, 0.9);
     border: 1px solid #375ca7;
 }
 .search-bar.search-bar-light .search-bar-inner {
-    background-color: rgb(8, 34, 63);
+    background-color: rgb(214, 28, 25);
 }
 #bda-qem button:hover {
-    background: rgb(5, 31, 63);
+    background: rgb(214, 28, 25);
 }
 #bda-qem {
-	background-color: rgba(2, 22, 45, 0.9);
+	background-color: rgba(214, 28, 25, 0.9);
 }
 #bda-qem button {
     border-left: 1px solid #375ca7;
@@ -239,11 +239,11 @@
     border-color: #375ca7;
 }
 .theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI {
-    color: rgb(55, 92, 167);
+    color: rgb(214, 28, 25);
 }
 
 .theme-dark .hasMore-3e72_v button {
-    background: rgba(2, 22, 45, 0.9);
+    background: rgba(214, 28, 25, 0.9);
     border: 1px solid #375ca7;
 }
 .hasMore-3e72_v button {
@@ -255,26 +255,26 @@
 
 /* playing a game card */
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6, .theme-dark .body-3ND3kc {
-    background-color: rgba(2, 22, 45, 0.9);
+    background-color: rgba214, 28, 25, 0.9);
 }
 .theme-dark .quickMessage-1yeL4E {
-    background-color: rgba(6, 31, 58, 0.9);
+    background-color: rgba(214, 28, 25, 0.9);
     border-color: #375ca7;
 }
 .headerPlaying-j0WQBV, .da-topSectionPlaying {
-    background: rgba(49, 111, 145, 0.9);
+    background: rgba(214, 28, 25, 0.9);
     border: 1px solid #0af;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
 /* button for header playing on add friend */
 .lookInverted-2D7oAl.colorBrand-3pXr91, .lookFilled-1Gx00P.colorBrand-3pXr91 {
-    background-color: rgba(49, 110, 145, 0.9);
-    border: 1px solid rgba(52, 141, 190, 0.9);
+    background-color: rgba(214, 28, 25, 0.9);
+    border: 1px solid rgba(214, 28, 25, 0.9);
     color: #ffffff;
 }
 .lookInverted-2D7oAl.colorBrand-3pXr91:hover, .lookFilled-1Gx00P.colorBrand-3pXr91:hover {
-    background-color: rgba(57, 128, 169, 0.9);
+    background-color: rgba(214, 28, 25, 0.9);
 }
 
 .userPopout-3XzG_A {
@@ -283,19 +283,19 @@
 
 /* normal card */
 .theme-dark .da-headerNormal, .da-root .da-topSectionNormal {
-    background-color: rgba(0, 18, 39, 0.9);
+    background-color: rgba(214, 28, 25, 0.9);
 }
 
 
 /* spotify card */
 .da-headerSpotify, .da-topSectionSpotify {
-	background: rgba(32, 138, 69, 0.9);
-    border: 1px solid rgba(42, 255, 15, 0.9);
+	background: rgba(214, 28, 25, 0.9);
+    border: 1px solid rgba(214, 28, 25, 0.9);
 }
 
 /* on call area */
 .video-1FfuMD {
-    background-color: rgba(2, 22, 45, 0.9);
+    background-color: rgba(214, 28, 25, 0.9);
     border: 1px solid #375ca7;
 }
 .theme-dark .wrapper-29NfPK.minimum-2d6zH6 .actions-2vadYq .center-1Vp33r {
@@ -316,8 +316,8 @@
 
 /* settings my account background */
 .theme-dark .da-cardPrimary, .theme-dark .da-cardPrimaryEditable {
-	background: rgba(8, 26, 62, 0.3);
-	border-color: rgba(55, 92, 167, 0.4);
+	background: rgba(214, 28, 25, 0.3);
+	border-color: rgba(214, 28, 25, 0.4);
 }
 
 /* settings button normal and hover of categories */
@@ -328,13 +328,13 @@
 	border-bottom-right-radius: 20px;
 }
 .da-app .side-8zPYf6 .da-itemDefault:hover, .da-app .da-wrapperHoveredText .da-content, .da-app .da-channel:hover a, .theme-dark #bd-settings-sidebar .ui-tab-bar-item:hover, .theme-dark .side-8zPYf6 .themed-OHr7kt.item-PXvHYJ:hover {
-	background-color: rgba(25, 65, 112, 0.63);
+	background-color: rgba(214, 28, 25, 0.63);
    	border: 1px solid #375ca7;
 	border-top-left-radius: 20px;
 	border-bottom-right-radius: 20px;
 }
 .theme-dark .member-3W1lQa:hover .content-OzHfo4 {
-	background-color: rgba(25, 65, 112, 0.63);
+	background-color: rgba(214, 28, 25, 0.63);
    	border: 1px solid #375ca7;
 	border-top-left-radius: 20px;
 	border-bottom-right-radius: 20px;
